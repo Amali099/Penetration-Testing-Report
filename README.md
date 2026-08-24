@@ -1,5 +1,4 @@
 # Penetration-Testing-Report
-# Penetration Testing Report – Metasploitable 2
 
 ## 📌 Project Overview
 
